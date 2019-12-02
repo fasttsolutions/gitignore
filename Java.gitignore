@@ -1,3 +1,13 @@
+#Native Mac files
+.DS_Store
+
+#Personal Project files
+.classpath
+.project
+.settings/
+target/
+#
+#------ Original ---------#
 # Compiled class file
 *.class
 
